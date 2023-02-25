@@ -1,9 +1,10 @@
 # _kim_kege_sft
 В архиве лежит файл "list_program.xml", его нужно отредактировать, убрав неиспользуемые пункты ПО.</br>
 Удалять необходимо блоки начиная с тега RegisteredSoftware и заканчивая /RegisteredSoftware.</br>
+![Пример](https://user-images.githubusercontent.com/20368858/221347117-c381d77b-66e8-42d5-b095-d06fa02b909b.png)</br>
 После редактирования сохранить файл и запустить программу _kim_kege_sft.exe.</br>
 В командной строке появится закодированный текст, скопировать его!</br>
-[Пример](https://user-images.githubusercontent.com/20368858/221345295-cf9e989e-66cc-45a7-b286-e50ac6fce489.png)</br>
+![Пример](https://user-images.githubusercontent.com/20368858/221345295-cf9e989e-66cc-45a7-b286-e50ac6fce489.png)</br>
 В той же папке будет пустой файл, "new_list_program.sft", открыть его блокнотом.</br>
 Вставить скопированный текст.</br>
 Сохранить.</br>
